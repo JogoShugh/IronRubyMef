@@ -5,7 +5,7 @@ Import and Export types to and from IronRuby for use with MEF -- the Managed Ext
 
 # Introduction
 
-This is code from Nicholas Blumhardt's article [Ruby on MEF: Hybrid Application](http://blogs.msdn.com/b/nblumhardt/archive/2008/12/23/ruby-on-mef-hybrid-application.aspx).
+This is code from Nicholas Blumhardt's 2008 article [Ruby on MEF: Hybrid Application](http://blogs.msdn.com/b/nblumhardt/archive/2008/12/23/ruby-on-mef-hybrid-application.aspx).
 
 The goal is for it to be like [IronPythonMef](http://github.com/jogoshugh/IronPythonMef)
 
