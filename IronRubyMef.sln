@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.ComponentModel.Composition.Scripting", "src\Microsoft.ComponentModel.Composition.Scripting\Microsoft.ComponentModel.Composition.Scripting.csproj", "{71F544EF-2925-4585-B62E-E8E4EA5C22D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.ComponentModel.Composition.Scripting.Tests", "src\Microsoft.ComponentModel.Composition.Scripting.Tests\Microsoft.ComponentModel.Composition.Scripting.Tests.csproj", "{C863D6D1-520A-4621-BA07-3F267CAC6495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridCalc", "src\HybridCalc\HybridCalc.csproj", "{C5442060-A5AC-40B7-A6F8-C2BA052864CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridCalc.Contracts", "src\HybridCalc.Contracts\HybridCalc.Contracts.csproj", "{736004A9-6C44-4614-9692-1C7661DD5AF0}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MefDlr.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F544EF-2925-4585-B62E-E8E4EA5C22D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F544EF-2925-4585-B62E-E8E4EA5C22D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F544EF-2925-4585-B62E-E8E4EA5C22D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F544EF-2925-4585-B62E-E8E4EA5C22D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C863D6D1-520A-4621-BA07-3F267CAC6495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C863D6D1-520A-4621-BA07-3F267CAC6495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C863D6D1-520A-4621-BA07-3F267CAC6495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C863D6D1-520A-4621-BA07-3F267CAC6495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5442060-A5AC-40B7-A6F8-C2BA052864CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5442060-A5AC-40B7-A6F8-C2BA052864CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5442060-A5AC-40B7-A6F8-C2BA052864CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5442060-A5AC-40B7-A6F8-C2BA052864CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736004A9-6C44-4614-9692-1C7661DD5AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736004A9-6C44-4614-9692-1C7661DD5AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736004A9-6C44-4614-9692-1C7661DD5AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736004A9-6C44-4614-9692-1C7661DD5AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
